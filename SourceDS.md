@@ -27,9 +27,9 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
 
 ## Online prof. training course: 
-  - [Coursea](coursea.com )
-  - udacity.com
-  - datacamp.com
-  - udemy.com
-  - lnydia.com
+  - [Coursea](https://www.coursera.org/recommendations )
+  - [udacity](udacity.com)
+  - [datacamp](datacamp.com)
+  - [udemy])(udemy.com)
+  - [LinkedIn Learning](lnydia.com)
 
