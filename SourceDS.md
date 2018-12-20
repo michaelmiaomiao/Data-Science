@@ -40,4 +40,7 @@ Sources for learning:
 - https://github.com/wdxtub/WDXpeak/blob/master/3.0/Interview/Code%20Complete/resume-and-introduction.md
 ## kaggle sample with Python 
 - https://www.kaggle.com/ihmstefanini/industrial-safety-and-health-analytics-database
+## resume and third. Thanks wdx
+- https://wdxtub.com 
+- https://github.com/wdxtub/WDXpeak/blob/master/3.0/Interview/Code%20Complete/resume-and-introduction.md
 
