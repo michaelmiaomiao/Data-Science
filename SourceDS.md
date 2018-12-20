@@ -26,5 +26,10 @@ Sources for learning:
 ## SQL面试 - interview prep.
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
 
-
+## Online prof. training course: 
+  - coursea.com 
+  - udacity.com
+  - datacamp.com
+  - udemy.com
+  - lnydia.com
 
