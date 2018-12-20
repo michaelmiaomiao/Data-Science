@@ -28,8 +28,8 @@ Sources for learning:
 
 ## Online prof. training course: 
   - [Coursea](https://www.coursera.org/recommendations )
-  - [udacity](udacity.com)
-  - [datacamp](datacamp.com)
-  - [udemy])(udemy.com)
-  - [LinkedIn Learning](lnydia.com)
+  - [udacity](https://www.udacity.com)
+  - [datacamp](https://www.datacamp.com)
+  - [udemy](https://www.udemy.com)
+  - [LinkedIn Learning](https://www.linkedin.com/learning/me)
 
