@@ -44,3 +44,5 @@ Sources for learning:
 - https://wdxtub.com 
 - https://github.com/wdxtub/WDXpeak/blob/master/3.0/Interview/Code%20Complete/resume-and-introduction.md
 
+## R language
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
