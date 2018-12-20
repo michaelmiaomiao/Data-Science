@@ -14,4 +14,7 @@ Sources for learning:
 
 - https://www.1point3acres.com/bbs/thread-187357-1-1.html
 
+#### UC Business Analytics R Programming Guide -- super good
+ - http://uc-r.github.io 
+ - [Home page for UC BA](http://uc-r.github.io)
 
