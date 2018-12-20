@@ -15,10 +15,3 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/thread-187357-1-1.html
 
 
-- <img itemprop="image" id="img-main" alt="Overdyed Half Zip Sweatshirt" src="//assets.supremenewyork.com/158030/ma/kuTAylOTyrc.jpg">
-
-- <img itemprop="image" id="img-main" alt="Reflective Text Track Jacket" src="//assets.supremenewyork.com/157398/ma/58_ns-kQU90.jpg">
-
-
-- <img itemprop="image" id="img-main" alt="Supreme®/Hanes® Boxer Briefs (4 Pack)" - -  src="//assets.supremenewyork.com/156779/ma/LBMnUBL5RV8.jpg">
-
