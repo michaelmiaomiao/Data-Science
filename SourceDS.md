@@ -18,3 +18,13 @@ Sources for learning:
  - http://uc-r.github.io 
  - [Home page for UC BA](http://uc-r.github.io)
 
+## DS 知识汇总 statistical knowledge summmary for data science 
+
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=461877&extra=page%3D1
+
+
+## SQL面试 - interview prep.
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
+
+
+
