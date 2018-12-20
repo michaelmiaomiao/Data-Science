@@ -33,3 +33,11 @@ Sources for learning:
   - [udemy](https://www.udemy.com)
   - [LinkedIn Learning](https://www.linkedin.com/learning/me)
 
+## summer tech intern list [找工就业] [工作信息] 网投的同学看过来~300+个CS公司供大家看看要不要投简历申请 
+- https://zhuanlan.zhihu.com/p/25024586
+- https://www.1point3acres.com/bbs/thread-201725-1-1.html
+## refer link for Chinese only 
+- https://github.com/wdxtub/WDXpeak/blob/master/3.0/Interview/Code%20Complete/resume-and-introduction.md
+## kaggle sample with Python 
+- https://www.kaggle.com/ihmstefanini/industrial-safety-and-health-analytics-database
+
