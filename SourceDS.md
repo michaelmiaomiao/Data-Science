@@ -53,3 +53,8 @@ Sources for learning:
 
 ## how to become a DS 
 - https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba
+
+## how to prepare interview
+-https://docs.google.com/document/d/1J9rjTzv3VKB2Qq10P3Oq2mV_K8pJOSdaeJ3IImPszBA/edit#
+  
+## how to become a DS  
