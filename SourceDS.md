@@ -50,3 +50,6 @@ Sources for learning:
 
 ## UCLA APPLIED STATISTICS PROGRAM. 
 - [ UCLA APPLIED STATISTICS PROGRAM.](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats.git)
+
+## how to become a DS 
+- https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba
