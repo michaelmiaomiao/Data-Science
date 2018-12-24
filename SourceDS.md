@@ -26,6 +26,7 @@ Sources for learning:
 ## SQL学习以及面试 - interview prep.
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
 - https://data36.com/sql-for-data-analysis-tutorial-beginners/
+- https://www.w3schools.com/sql/sql_alias.asp (really good pratice)
 
 ## Online prof. training course: 
   - [Coursea](https://www.coursera.org/recommendations )
