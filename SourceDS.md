@@ -27,6 +27,7 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
 - https://data36.com/sql-for-data-analysis-tutorial-beginners/
 - https://www.w3schools.com/sql/sql_alias.asp (really good pratice)
+- [SQL JOINT REVIEW NOTES](https://medium.com/@josemarcialportilla/review-of-sql-joins-ac5463dc71c9#.ayjcuatvj)
 
 ## Online prof. training course: 
   - [Coursea](https://www.coursera.org/recommendations )
