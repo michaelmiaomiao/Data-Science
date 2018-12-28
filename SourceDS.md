@@ -49,6 +49,7 @@ Sources for learning:
 
 ## R language
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
+- http://bradleyboehmke.github.io/education/
 
 ## UCLA APPLIED STATISTICS PROGRAM. 
 - [ UCLA APPLIED STATISTICS PROGRAM.](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats.git)
