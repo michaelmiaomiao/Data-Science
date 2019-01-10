@@ -66,6 +66,11 @@ Sources for learning:
 
 
 
+## A Data Scientist's Repo
+- http://bradleyboehmke.github.io
+
+
+
 
 
 
