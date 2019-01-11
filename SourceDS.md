@@ -71,6 +71,8 @@ Sources for learning:
 
 ## A place to write HTML, CSS , JS while see the interface of the web.
 - [unipen](https://codepen.io/Colt/pen/WQQVvE)
+- [HTML slides REALLY HELP from Udemey](http://webdev.slides.com/coltsteele/deck-7-50#/2)
+- and check the homepage for this instructor for other useful resources.
 
 
 
