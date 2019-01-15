@@ -80,6 +80,9 @@ Sources for learning:
 ## 伯克利大牛教授的homepage
 - [Phil Spector](https://www.stat.berkeley.edu/~spector/)
 
+## 求职网页
+- https://us.jooble.org/jobs-data-science-intern
+
 
 
 
