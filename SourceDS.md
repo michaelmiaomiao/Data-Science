@@ -44,6 +44,11 @@ Sources for learning:
   - [udemy](https://www.udemy.com)
   - [LinkedIn Learning](https://www.linkedin.com/learning/me)
 
+# Python with DS
+## Python handbook: 
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+## Repo for Python really useful! 
+- [ujjiwak's python repo!](https://github.com/ujjwalkarn/DataSciencePython)
 
 
 ## UCLA APPLIED STATISTICS PROGRAM. 
