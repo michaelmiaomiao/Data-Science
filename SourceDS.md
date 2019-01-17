@@ -32,11 +32,15 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
 - http://bradleyboehmke.github.io/education/
 
+## 哈佛 课程 R
+- https://online-learning.harvard.edu/series/professional-certificate-data-science
+
+
+
 ## R 语言面试学校中文
 - https://www.w3cschool.cn/r/r_interview_questions.html
 ## R 语言ds方向学习资料汇总大全！！精华
 - https://www.1point3acres.com/bbs/thread-32468-1-1.html
-
 
 # Statistics Knoledge: 
 ## DS 知识汇总 statistical knowledge summmary for data science 
