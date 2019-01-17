@@ -17,6 +17,10 @@ Sources for learning:
 
 - https://www.1point3acres.com/bbs/thread-187357-1-1.html
 
+## AB testing 
+- https://michaelmiaomiao.github.io
+- https://www.udacity.com/course/ab-testing--ud257
+
 # R resources: 
 ## UC Business Analytics R Programming Guide -- super good
  - http://uc-r.github.io 
