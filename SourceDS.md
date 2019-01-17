@@ -24,6 +24,8 @@ Sources for learning:
 
 ## R 语言面试学校中文
 - https://www.w3cschool.cn/r/r_interview_questions.html
+## R 语言ds方向学习资料汇总大全！！精华
+- https://www.1point3acres.com/bbs/thread-32468-1-1.html
 
 
 # Statistics Knoledge: 
