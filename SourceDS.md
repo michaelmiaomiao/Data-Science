@@ -26,6 +26,7 @@ Sources for learning:
 
 # R resources: 
 ## UC Business Analytics R Programming Guide -- super good
+ - https://r4ds.had.co.nz/workflow-basics.html
  - http://uc-r.github.io 
  - [Home page for UC BA](http://uc-r.github.io)
 ## R language
