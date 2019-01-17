@@ -21,6 +21,9 @@ Sources for learning:
 - https://michaelmiaomiao.github.io
 - https://www.udacity.com/course/ab-testing--ud257
 
+## PRODUCT SENSE
+- cracking pm interview
+
 # R resources: 
 ## UC Business Analytics R Programming Guide -- super good
  - http://uc-r.github.io 
