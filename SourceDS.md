@@ -56,6 +56,7 @@ Sources for learning:
 - https://www.w3schools.com/sql/sql_alias.asp (really good pratice)
 - [SQL JOINT REVIEW NOTES](https://medium.com/@josemarcialportilla/review-of-sql-joins-ac5463dc71c9#.ayjcuatvj)
 - [Personal Repo](https://github.com/michaelmiaomiao/mySQL_learningnotes)
+- [SQL ZOO](https://zhuanlan.zhihu.com/p/48129794)
 
 # Learning online: 
 ## Online prof. training course: 
