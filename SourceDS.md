@@ -60,6 +60,9 @@ Sources for learning:
 
 # Learning online: 
 ## Online prof. training course: 
+- 我认为coursera和edx和大学合作更多，udacity和公司合作更多，udemy是individual instructor，学知识去c和e，学习找工作技能去后两家
+
+
   - [Coursea](https://www.coursera.org/recommendations )
   - [udacity](https://www.udacity.com)
   - [datacamp](https://www.datacamp.com)
