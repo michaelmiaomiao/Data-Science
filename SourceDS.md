@@ -20,6 +20,7 @@ Sources for learning:
 ## AB testing 
 - https://michaelmiaomiao.github.io
 - https://www.udacity.com/course/ab-testing--ud257
+- https://blog.csdn.net/Weiguang_123/article/details/49203239
 
 ## PRODUCT SENSE
 - cracking pm interview
