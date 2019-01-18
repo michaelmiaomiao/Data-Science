@@ -17,23 +17,36 @@ Sources for learning:
 
 - https://www.1point3acres.com/bbs/thread-187357-1-1.html
 
+## AB testing 
+- https://michaelmiaomiao.github.io
+- https://www.udacity.com/course/ab-testing--ud257
+- https://blog.csdn.net/Weiguang_123/article/details/49203239
+
+## PRODUCT SENSE
+- cracking pm interview
+
 # R resources: 
 
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
 - [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
 - )
 ## UC Business Analytics R Programming Guide -- super good
+ - https://r4ds.had.co.nz/workflow-basics.html
  - http://uc-r.github.io 
  - [Home page for UC BA](http://uc-r.github.io)
 ## R language
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
 - http://bradleyboehmke.github.io/education/
 
+## 哈佛 课程 R
+- https://online-learning.harvard.edu/series/professional-certificate-data-science
+
+
+
 ## R 语言面试学校中文
 - https://www.w3cschool.cn/r/r_interview_questions.html
 ## R 语言ds方向学习资料汇总大全！！精华
 - https://www.1point3acres.com/bbs/thread-32468-1-1.html
-
 
 # Statistics Knoledge: 
 ## DS 知识汇总 statistical knowledge summmary for data science 
@@ -47,9 +60,13 @@ Sources for learning:
 - https://www.w3schools.com/sql/sql_alias.asp (really good pratice)
 - [SQL JOINT REVIEW NOTES](https://medium.com/@josemarcialportilla/review-of-sql-joins-ac5463dc71c9#.ayjcuatvj)
 - [Personal Repo](https://github.com/michaelmiaomiao/mySQL_learningnotes)
+- [SQL ZOO](https://zhuanlan.zhihu.com/p/48129794)
 
 # Learning online: 
 ## Online prof. training course: 
+- 我认为coursera和edx和大学合作更多，udacity和公司合作更多，udemy是individual instructor，学知识去c和e，学习找工作技能去后两家
+
+
   - [Coursea](https://www.coursera.org/recommendations )
   - [udacity](https://www.udacity.com)
   - [datacamp](https://www.datacamp.com)
@@ -105,6 +122,9 @@ Sources for learning:
 ## 求职网页
 - https://us.jooble.org/jobs-data-science-intern
 - https://handshake.com
+
+## 研究生博士生申请汇总情况
+- https://www.1point3acres.com/bbs/thread-471012-1-1.html
 
 
 
