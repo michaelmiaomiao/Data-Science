@@ -119,6 +119,9 @@ Sources for learning:
 - https://us.jooble.org/jobs-data-science-intern
 - https://handshake.com
 
+## 研究生博士生申请汇总情况
+- https://www.1point3acres.com/bbs/thread-471012-1-1.html
+
 
 
 
