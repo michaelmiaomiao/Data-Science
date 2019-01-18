@@ -18,6 +18,10 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/thread-187357-1-1.html
 
 # R resources: 
+
+## linkedin ds recomended source for learning R packages useful for data manipulation.
+- [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
+- )
 ## UC Business Analytics R Programming Guide -- super good
  - http://uc-r.github.io 
  - [Home page for UC BA](http://uc-r.github.io)
