@@ -24,6 +24,7 @@ Sources for learning:
 
 ## PRODUCT SENSE
 - cracking pm interview
+- [Here is the link to dl the pdf book](http://vdisk.weibo.com/s/dxhx7zEbzghL)
 
 # R resources: 
 
