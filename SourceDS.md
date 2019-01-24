@@ -133,6 +133,12 @@ Sources for learning:
 - https://www.1point3acres.com/bbs/thread-471012-1-1.html
 
 
+## *Yelp data fest* due until the end of year 2019 and json 
+```
+ library(jsonlite)two <- stream_in(file("~/Docum------
+```
+
+
 
 
 ### LEAVE BLANK 
