@@ -53,6 +53,7 @@ Sources for learning:
 - https://www.w3cschool.cn/r/r_interview_questions.html
 ## R 语言ds方向学习资料汇总大全！！精华
 - https://www.1point3acres.com/bbs/thread-32468-1-1.html
+- https://www.r-bloggers.com/r-remove-all-objects-fromt-he-current-workspace/
 
 # Statistics Knoledge: 
 ## DS 知识汇总 statistical knowledge summmary for data science 
