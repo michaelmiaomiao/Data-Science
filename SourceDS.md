@@ -33,6 +33,8 @@ Sources for learning:
 ## Analysis for data
 - **[101A](https://www.google.com/search?client=safari&rls=en&ei=YtFGXKzxNOGT0PEPtv2NoA0&q=how+to+deal+with+categorical+variables+in+linear+regression+in+r&oq=how+to+deal+categorical+variables+in+linear+regression+in+r&gs_l=psy-ab.1.0.0i7i30.1528.2504..3996...0.0..0.171.1007.0j8......0....1..gws-wiz.......0i71j35i304i39.mqHTIQ051DE#kpvalbx=1)**
 
+- https://r4ds.had.co.nz/introduction.html 
+
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
 - [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
 - )
@@ -136,7 +138,8 @@ Sources for learning:
 
 ## *Yelp data fest* due until the end of year 2019 and json 
 ```
- library(jsonlite)two <- stream_in(file("~/Docum------
+ library(jsonlite)
+two <- stream_in(file("~/Docum------
 ```
 
 ## Princeton University Data & Statistical Service 
