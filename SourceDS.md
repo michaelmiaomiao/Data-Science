@@ -139,6 +139,9 @@ Sources for learning:
  library(jsonlite)two <- stream_in(file("~/Docum------
 ```
 
+## Princeton University Data & Statistical Service 
+
+- [普林斯顿大学数据科学服务网站资源](https://dss.princeton.edu/training/)
 
 
 
