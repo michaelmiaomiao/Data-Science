@@ -146,6 +146,11 @@ two <- stream_in(file("~/Docum------
 
 - [普林斯顿大学数据科学服务网站资源](https://dss.princeton.edu/training/)
 
+## DATA MANIPULATION USING R DPLYR
+
+- [dplyr with examples](https://www.listendata.com/2016/08/dplyr-tutorial.html)
+
+#### Learning about the readr readxl, json, and rvest frile for wraggling the data.
 
 
 ### LEAVE BLANK 
