@@ -152,6 +152,10 @@ two <- stream_in(file("~/Docum------
 
 #### Learning about the readr readxl, json, and rvest frile for wraggling the data.
 
+## Link to how to start a blog or porforlio as a data scientist.
+- [David Rober variance explained blog](http://varianceexplained.org/r/start-blog/)
+- [Ways to create and keep a porfolior for ds](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+
 
 ### LEAVE BLANK 
 ##
