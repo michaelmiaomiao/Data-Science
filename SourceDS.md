@@ -49,6 +49,9 @@ Sources for learning:
 ## 哈佛 课程 R
 - https://online-learning.harvard.edu/series/professional-certificate-data-science
 
+## R ds 学习
+- http://www.datasciencemadesimple.com/convert-list-to-vector-with-unlist-function-in-r/
+
 
 
 ## R 语言面试学校中文
