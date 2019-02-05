@@ -125,6 +125,9 @@ Sources for learning:
 - [HTML slides REALLY HELP from Udemey](http://webdev.slides.com/coltsteele/deck-7-50#/2)
 - and check the homepage for this instructor for other useful resources.
 
+## UCI datasets FOR PRACTICE 
+- [uci machinee learning center for data analysis, food source for data analysis](archive.ics.uci.eud/ml/datasets.html)
+- 
 ## Data V
 - http://ggplot2.tidyverse.org
 
