@@ -160,6 +160,12 @@ two <- stream_in(file("~/Docum------
 - [Ways to create and keep a porfolior for ds](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 
 
+## data science with haddoop
+
+- hadoop in r tutorial
+- https://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html
+
+
 ### LEAVE BLANK 
 ##
 ###
