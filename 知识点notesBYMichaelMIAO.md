@@ -77,3 +77,29 @@ There is equal within-group variance across the groups associated with each mean
 - https://en.wikipedia.org/wiki/Out-of-bag_error
 
 - Bootstrap aggregating, also called bagging, is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. It also reduces variance and helps to avoid overfitting. Although it is usually applied to decision tree methods, it can be used with any type of method. Bagging is a special case of the model averaging approach.
+
+
+## There are other models such as XGBoost that we did not try and combining predictions from other models can also improve the accuracy.
+
+
+## Bootstrapping (statistics)
+- https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
+
+## supervise and unsupervised learnaing
+
+- https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+
+
+
+## lda qda classification 
+
+- https://scikit-learn.org/stable/auto_examples/classification/plot_lda_qda.html
+
+- When the classes are well-separated, the parameter estimates for the logistic model are surprisingly unstable. LDA does not suffer from this.
+If n is small and the distribution of the predictors X is approximately normal in each of the classes, the LDA model is more stable than logistic.
+For these reasons, and some others, LDA is the preferred method when dealing with > 2 response classes.
+The LDA classifier assumes that each class comes from a normal distribution with a class-specific mean vector and a common variance. We utilize LDA to estimate the parameters so that we can leverage the Bayes classifier. The Bayes classifier is a simple and highly effective classifier that assigns each observation to the most likely class given its predictor values. The Bayes classifier has the lowest possible error rate out of all classifiers if the terms are correctly specified. Thus LDA is a classifier that attempts to approximate the Bayes classifier.
+
+- The difference is really a bias-variance trade-off. With p predictors, estimating a co variance matrix requires estimating p(p+1)/2 parameters. The QDA estimates a separate co variance matrix for each class, so as the number of predictors becomes high, we experience a computational expense. Conversely, if we assume a common co variance matrix, we only have to do the computation once. LDA is a much less flexible classifier, than QDA, thus has substantially lower variance. However, if the assumption of uniform variance is highly off, then LDA can suffer high bias. In general, LDA tends to be better than QDA if there are relatively few training observations, so therefore reducing variance is crucial. QDA is recommended if the training set is very large, so that the variance of the classifier is not a major concern.
+
+Between Logistic regression LDA and QDA, the biggest things to take into consideration are the type of decision boundary that is required. If highly linear, than LDA and Logistic may prove superior, if non-linear, the edge may be given to QDA. Though keep in mind we can do simple transformations to take non-linearity into consideration with Logistic models, similar to how we did in linear regression.
