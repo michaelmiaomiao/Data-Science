@@ -65,6 +65,7 @@ Sources for learning:
 
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=461877&extra=page%3D1
 
+- [MIT OPEN COURSE --- STATISTIS FOR APPLICATION](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 # SQL
 ## SQL学习以及面试 - interview prep.
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
