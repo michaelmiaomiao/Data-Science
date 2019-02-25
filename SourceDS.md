@@ -37,12 +37,14 @@ Sources for learning:
 
 - https://r4ds.had.co.nz/introduction.html 
 
+
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
 - [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
 - )
 ## UC Business Analytics R Programming Guide -- super good
  - https://r4ds.had.co.nz/workflow-basics.html
  - http://uc-r.github.io 
+ - http://r-statistics.co/Linear-Regression.html        !!太棒了！
  - [Home page for UC BA](http://uc-r.github.io)
 ## R language
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
