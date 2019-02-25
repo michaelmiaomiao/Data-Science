@@ -33,6 +33,8 @@ Sources for learning:
 ## Analysis for data
 - **[101A](https://www.google.com/search?client=safari&rls=en&ei=YtFGXKzxNOGT0PEPtv2NoA0&q=how+to+deal+with+categorical+variables+in+linear+regression+in+r&oq=how+to+deal+categorical+variables+in+linear+regression+in+r&gs_l=psy-ab.1.0.0i7i30.1528.2504..3996...0.0..0.171.1007.0j8......0....1..gws-wiz.......0i71j35i304i39.mqHTIQ051DE#kpvalbx=1)**
 
+- http://www.sthda.com/english/articles/38-regression-model-validation/158-regression-model-accuracy-metrics-r-square-aic-bic-cp-and-more/
+
 - https://r4ds.had.co.nz/introduction.html 
 
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
