@@ -174,6 +174,9 @@ two <- stream_in(file("~/Docum------
 - https://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html
 
 
+## ds  转 sde
+- https://www.1point3acres.com/bbs/thread-480611-1-1.html
+
 ### LEAVE BLANK 
 ##
 ###
