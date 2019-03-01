@@ -177,6 +177,20 @@ two <- stream_in(file("~/Docum------
 ## ds  转 sde
 - https://www.1point3acres.com/bbs/thread-480611-1-1.html
 
+
+## Use for courses for MSBA
+
+- - Courses:
+MGTA 495 - Special Topics in Business Analytics: Web Data Analytics
+MGTA 459 - Managerial Judgment and Decision Making
+MGTA 451 - Analytics in Marketing, Finance, & Operations
+MGTA 453 - Business Analytics
+MGTA 452 - Collecting/Analyzing Large Data
+MGT 481 - Social Media Marketing
+MGTA 455 - Customer Analytics
+MGTA 456 - Supply Chain Analytics
+MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
+
 ### LEAVE BLANK 
 ##
 ###
