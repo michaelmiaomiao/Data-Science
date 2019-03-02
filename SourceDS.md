@@ -33,7 +33,10 @@ Sources for learning:
 ## Analysis for data
 - **[101A](https://www.google.com/search?client=safari&rls=en&ei=YtFGXKzxNOGT0PEPtv2NoA0&q=how+to+deal+with+categorical+variables+in+linear+regression+in+r&oq=how+to+deal+categorical+variables+in+linear+regression+in+r&gs_l=psy-ab.1.0.0i7i30.1528.2504..3996...0.0..0.171.1007.0j8......0....1..gws-wiz.......0i71j35i304i39.mqHTIQ051DE#kpvalbx=1)**
 
+- http://www.sthda.com/english/articles/38-regression-model-validation/158-regression-model-accuracy-metrics-r-square-aic-bic-cp-and-more/
+
 - https://r4ds.had.co.nz/introduction.html 
+
 
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
 - [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
@@ -41,6 +44,7 @@ Sources for learning:
 ## UC Business Analytics R Programming Guide -- super good
  - https://r4ds.had.co.nz/workflow-basics.html
  - http://uc-r.github.io 
+ - http://r-statistics.co/Linear-Regression.html        !!太棒了！
  - [Home page for UC BA](http://uc-r.github.io)
 ## R language
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=63913
@@ -169,6 +173,23 @@ two <- stream_in(file("~/Docum------
 - hadoop in r tutorial
 - https://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html
 
+
+## ds  转 sde
+- https://www.1point3acres.com/bbs/thread-480611-1-1.html
+
+
+## Use for courses for MSBA
+
+- - Courses:
+MGTA 495 - Special Topics in Business Analytics: Web Data Analytics
+MGTA 459 - Managerial Judgment and Decision Making
+MGTA 451 - Analytics in Marketing, Finance, & Operations
+MGTA 453 - Business Analytics
+MGTA 452 - Collecting/Analyzing Large Data
+MGT 481 - Social Media Marketing
+MGTA 455 - Customer Analytics
+MGTA 456 - Supply Chain Analytics
+MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
 ### LEAVE BLANK 
 ##
