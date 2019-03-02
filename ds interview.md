@@ -31,3 +31,18 @@ Machine learning: analytics职位对ml要求很低，很多公司基本不问，
 最后对于转专业的同学来说，如果有时间精力跟金钱，还是可以考虑读一个data science相关的master program。湾区的同学推荐Master in Data Science from University of San Francisco。这个项目只有一年，强度很大，但是期间负责安排实习工作，毕业的人都能找到不错的工作，就算一开始是个不知名小公司，但是一年后都纷纷跳到了大公司。对于Ph.D的同学，可以考虑去个boot camp，首推insights data science，这个bar很高，但是只要进去了，工作都找的非常好，很多公司比如facebook ,airbnb等都跟他们有合作项目的，很多都是直接on site。
 
 吐血总结了这么多，就是希望能够帮助更多的同学，尤其是转行的同学找到理想的工作。虽然ds这行比较杂，涉及多学科，不好准备。但是其实都是有套路可循的。还是多总结，多跟别人讨论。希望我的这点总结能够对大家有点指导意义。
+
+
+- https://www.sisense.com/blog/5-steps-to-data-driven-business-decisions/
+
+
+
+- What is AARRR?
+AARRR stands for Acquisition, Activation, Retention, Referral and Revenue and is pretty much the bee’s knees when it comes to understanding your customers, their journey and optimizing your funnel as well as setting some valuable and actionable metric goals for your startup. It’s important to view the acquisition part holistically.
+That means not just looking at site visitors but also at how many and how those site visitors convert to customers. Y
+
+- https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b
+
+SaaS
+
+- https://stellarpeers.com/blog/metrics-airbnb-experiences-feature/
