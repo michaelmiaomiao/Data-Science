@@ -32,6 +32,8 @@ Machine learning: analytics职位对ml要求很低，很多公司基本不问，
 
 吐血总结了这么多，就是希望能够帮助更多的同学，尤其是转行的同学找到理想的工作。虽然ds这行比较杂，涉及多学科，不好准备。但是其实都是有套路可循的。还是多总结，多跟别人讨论。希望我的这点总结能够对大家有点指导意义。
 
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=455639&highlight=%BB%E3%D7%DC
+
 
 - https://www.sisense.com/blog/5-steps-to-data-driven-business-decisions/
 
@@ -46,3 +48,7 @@ That means not just looking at site visitors but also at how many and how those 
 SaaS
 
 - https://stellarpeers.com/blog/metrics-airbnb-experiences-feature/
+
+
+## pm
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=206209

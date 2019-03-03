@@ -191,6 +191,16 @@ MGTA 455 - Customer Analytics
 MGTA 456 - Supply Chain Analytics
 MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
+
+## source for ba
+
+- https://forum.chasedream.com/thread-1330558-1-1.html
+- https://www.chasedream.com/show.aspx?id=19222&cid=23
+
+## SAS certificate
+
+- https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=37020&highlight=%BB%E3%D7%DC
+
 ### LEAVE BLANK 
 ##
 ###
