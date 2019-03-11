@@ -37,6 +37,8 @@ Sources for learning:
 
 - https://r4ds.had.co.nz/introduction.html 
 
+## caret package
+- https://topepo.github.io/caret/
 
 ## linkedin ds recomended source for learning R packages useful for data manipulation.
 - [Learning R packages useful! ](https://www.datacareer.de/blog/top-10-r-packages-for-data-science/
