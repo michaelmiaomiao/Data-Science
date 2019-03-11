@@ -73,3 +73,7 @@ Bagging / Boosting
 Distributed Computed (Spark)
 
 
+
+## Medical Tests and Bayes' Theorem
+- https://www.math.hmc.edu/funfacts/ffiles/30002.6.shtml
+
