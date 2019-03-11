@@ -52,3 +52,24 @@ SaaS
 
 ## pm
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=206209
+
+##
+Graph and Network Analysis
+Bayesian Statistics
+A|B Testing
+Supervised Learning
+Linear Regression, SVM, Random Forest, Logistic Regression , KNN, etc...
+Unsupervised Learning
+K-Means Clustering, PCA, etc…
+NLP, Model Validation, K-Folds, etc...
+You should also have an understanding of basic concepts
+Bias-Variance Trade-Off
+Gradient Descent
+**L1 / L2 Regularization**
+Bagging / Boosting
+
+
+## Algorithms and Data Structures
+Distributed Computed (Spark)
+
+

@@ -30,6 +30,11 @@ Sources for learning:
 - [Here is the link to dl the pdf book](http://vdisk.weibo.com/s/dxhx7zEbzghL)
 
 # R resources: 
+
+## Great book for R data str + algo
+- Distributed Computed (Spark)
+- https://www.oreilly.com/library/view/r-data-structures/9781786465153/#toc-start
+
 ## Analysis for data
 - **[101A](https://www.google.com/search?client=safari&rls=en&ei=YtFGXKzxNOGT0PEPtv2NoA0&q=how+to+deal+with+categorical+variables+in+linear+regression+in+r&oq=how+to+deal+categorical+variables+in+linear+regression+in+r&gs_l=psy-ab.1.0.0i7i30.1528.2504..3996...0.0..0.171.1007.0j8......0....1..gws-wiz.......0i71j35i304i39.mqHTIQ051DE#kpvalbx=1)**
 
