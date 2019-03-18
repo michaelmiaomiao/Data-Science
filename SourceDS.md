@@ -103,6 +103,9 @@ Sources for learning:
 ## Repo for Python really useful! 
 - [ujjiwak's python repo!](https://github.com/ujjwalkarn/DataSciencePython)
 
+## data science -- computational statistics with python from DUKE.
+- http://people.duke.edu/~ccc14/sta-663-2016/12_MultivariateOptimizationAlgorithms.html 
+
 
 ## UCLA APPLIED STATISTICS PROGRAM. 
 - [ UCLA APPLIED STATISTICS PROGRAM.](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats.git)
