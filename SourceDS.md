@@ -211,6 +211,9 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=37020&highlight=%BB%E3%D7%DC
 
+## ml dl nlp in ds
+- https://www.analyticsvidhya.com/blog/2018/12/most-popular-articles-analytics-vidhya-2018/
+
 ### LEAVE BLANK 
 ##
 ###
