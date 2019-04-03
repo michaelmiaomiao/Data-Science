@@ -681,7 +681,7 @@ k
   - least absolute shrinkage and selection operator
 
   
-``````````````````
+
 # bayesian :
 - http://uc-r.github.io/naive_bayes
 his is primarily because what is usually needed is not a propensity (exact posterior probability) for each record that is accurate in absolute terms but just a reasonably accurate rank ordering of propensities.
@@ -739,3 +739,28 @@ RAM
 - rettrive relevant data
 - getting rid of corredlate subs
 - avoid coding loops 
+
+
+
+
+-------------------------------------
+
+
+
+## Experienment Design 
+
+- hypothesis test 
+
+- distribution 
+ - chi-square : non parametric.  *The chi-square test of statistical significance is a series of mathematical formulas that compare the actual observed frequencies of the two variables measured in a sample with the frequencies one would expect if there were no relationship at all between those variables. That is, chi-square assesses whether the actual results are different enough from the null hypothesis to overcome a certain probability that they are due to sampling error, randomness, or a combination.*
+ 
+ - Chi-square is most appropriate for analyzing relationships among nominal and ordinal variables. A nominal variable (sometimes called a categorical variable) describes an attribute in terms of mutually exclusive, nonhierarchically related categories, such as gender and footwear preference. Ordinal variables measure an attribute (such as military rank) that subjects may have more or less of but that cannot be measured in equal increments on a scale. (Results from interval variables, such as scores on a test, would have to first be grouped before they could “fit” into a bivariate table and be analyzed with chi-square; 
+ - must be randomly drawn 
+ - raw frequency not percentage 
+ - http://methods.sagepub.com/base/download/ReferenceEntry/encyc-of-research-design/n48.xml
+ 
+ 
+ 
+ 
+ 
+ 
