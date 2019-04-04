@@ -32,7 +32,7 @@ Sources for learning:
 # R resources: 
 
 ## Great book for R data str + algo
-- Distributed Computed (Spark)
+- Distributed Computed (Spark) 
 - https://www.oreilly.com/library/view/r-data-structures/9781786465153/#toc-start
 
 ## Analysis for data
@@ -217,3 +217,9 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 ### LEAVE BLANK 
 ##
 ###
+
+
+## data fest preparation 
+- [useful link for advanced R knowledge ](https://rviews.rstudio.com/2017/04/05/datafestorg/)
+- [datafest repor]https://github.com/Key2-Success/DataFest-Expedia-Analysis
+
