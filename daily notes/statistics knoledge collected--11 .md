@@ -680,8 +680,7 @@ k
   - lasso set coe === zero , while ridge not
   - least absolute shrinkage and selection operator
 
-  
-``````````````````
+
 # bayesian :
 - http://uc-r.github.io/naive_bayes
 his is primarily because what is usually needed is not a propensity (exact posterior probability) for each record that is accurate in absolute terms but just a reasonably accurate rank ordering of propensities.
@@ -739,3 +738,11 @@ RAM
 - rettrive relevant data
 - getting rid of corredlate subs
 - avoid coding loops 
+
+
+
+
+
+## experiment design 
+
+
