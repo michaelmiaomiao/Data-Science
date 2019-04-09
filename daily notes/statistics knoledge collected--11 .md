@@ -746,6 +746,33 @@ RAM
 ## experiment design 
 
 
-- 
+- Quantitative Variables Discrete Variables Continuous Variables
+Categorical Variables Nominal Variables Ordinal Variables
 
+- **Sample covariance** is calculated by computing (signed) deviations of each measurement from the average of all measurements for that variable. Then the deviations for the two measurements are multiplied together sepa- rately for each subject. Finally these values are averaged (actually summed and divided by n-1, to keep the statistic unbiased). Note that the units on sample covariance are the products of the units of the two variables.
+-  The general formula for sample covariance is 􏰆ni=1(xi −x ̄)(yi −y ̄)
+Cov(X, Y ) = n − 1
+
+
+## correlation coefficient 
+
+- The correlation between two random variables is a number that runs from -1 through 0 to +1 and indicates a strong inverse relationship, no rela
+- tionship, and a strong direct relationship, respectively.
+
+
+
+## distributions 
+- The binomial distribution 
+- 
+The multinomial distribution is a discrete distribution that can be used to model situations where a subject has n trials each of which independently can result in one of k different
+
+
+- The Poisson distribution is a discrete distribution whose support is the non- negative integers (0, 1, 2, . . .). Many measurements that represent counts which have no theoretical upper limit, such as the number of times a subject clicks on a moving target on a computer screen in one minute, follow a Poisson distribution.
+
+
+- A chi-square distribution is a continuous distribution with support on the pos- itive real numbers whose family is indexed by a single “degrees of freedom” pa- rameter. A chi-square distribution with df equal to a, commonly arises from the sum of squares of a independent N(0,1) random variables. The mean is equal to the df and the variance is equal to twice the df.
+
+
+## power 
+- The power of an experiment is defined for specific alternatives, e.g., |μ1 − μ2| = 100, rather than for the entire, complex alternative hypothesis. The power of an experiment for a given alternative hypothesis is the chance that we will get a statistically significant result (reject the null hypothesis) when that alternative is true for any one realization of the experiment. Power varies from α to 1.00 (or 100α% to 100%). The concept of power is related to Type 2 error, which is the error we make when we retain the null hypothesis when a particular alternative is true. Usually the rate of making Type 2 errors is symbolized by beta (β). Then power is 1-β or 100-100β%. Typically people agree that 80% power (β=20%) for some substantively important effect size (specific magnitude of a difference as opposed to the zero difference of the null hypothesis) is a minimal value for good power.
 
