@@ -223,3 +223,9 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 - [useful link for advanced R knowledge ](https://rviews.rstudio.com/2017/04/05/datafestorg/)
 - [datafest repor]https://github.com/Key2-Success/DataFest-Expedia-Analysis
 
+
+
+## R data analysis project sample 
+- https://uc-r.github.io/data_wrangling/final-project
+- so good !
+
