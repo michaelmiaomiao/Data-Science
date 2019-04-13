@@ -229,3 +229,6 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 - https://uc-r.github.io/data_wrangling/final-project
 - so good !
 
+
+# 40 techiniques ds uses
+- https://www.datasciencecentral.com/profiles/blogs/40-techniques-used-by-data-scientists
