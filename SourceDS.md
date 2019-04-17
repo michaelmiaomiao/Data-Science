@@ -232,3 +232,7 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
 # 40 techiniques ds uses
 - https://www.datasciencecentral.com/profiles/blogs/40-techniques-used-by-data-scientists
+
+
+# R full step classification 
+- https://data-flair.training/blogs/classification-in-r/
