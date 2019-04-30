@@ -92,3 +92,7 @@ Predictors could be categorical or numerical You could examine the interaction o
              
  Logistic regression  Outcome variable is binary (two levels) Predictors could be categorical or numerical You could examine the interaction of categorical with categorical and categorical with numerical outcomes Multinomial regressionOutcome variable is categorical with more than two levels
 Predictors could be categorical or numerical You could examine the interaction of categorical with categorical and categorical with numerical outcomes Ordinal regression  Outcome variable is ordinal with more than two levels. An example would be a Likert scale of strongly agree to strongly disagree. Predictors could be categorical, numerical categorical with categorical and categorical with numerical outcomes Using the above guidelines, complete the following table: It would help to: 1) identify the outcome and predictors, 2) determine how they were measured, 3) drawing the design, and 4) identifying the statistical method)
+ 
+ 
+ 
+ 
