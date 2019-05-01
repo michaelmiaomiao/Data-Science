@@ -95,4 +95,19 @@ Predictors could be categorical or numerical You could examine the interaction o
  
  
  
- 
+
+
+
+
+### 
+
+medical research for data 
+
+- planning
+- design 
+- execution (data collection and gathering)
+- data processing
+- data analysis
+- presentation 
+- interpretation 
+- publication  
