@@ -17,3 +17,8 @@ Control-Shift-Tab 或 Shift-Command -[
 
 # 全屏
 网页全屏的快捷键，按control+cmmand+f就可以实现网页全屏。
+
+
+# read all fiels
+temp = list.files(pattern="*.csv")
+myfiles = lapply(temp, read.delim)
