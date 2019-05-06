@@ -22,3 +22,12 @@ Control-Shift-Tab 或 Shift-Command -[
 # read all fiels
 temp = list.files(pattern="*.csv")
 myfiles = lapply(temp, read.delim)
+
+
+#  library(dplyr)
+ iris %>%
+      group_by(Species) %>%
+      distinct(Sepal.Length)%>% 
+      arrange(desc(Sepal.Length)) %>% 
+      slice(2) %>% 
+      select(Sepal.Length)
