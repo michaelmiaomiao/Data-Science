@@ -813,5 +813,6 @@ The multinomial distribution is a discrete distribution that can be used to mode
 
 - Known as “simultaneous inference”: controlling overall false positive rate at α while performing many tests.
 
-#
+# The Tukey’s test 
+- verifies our observation in the interaction plot and F-test. With a moderate or high alcohol intake (2 or 4 intakes), sadness is significant in increasing the memory time co realatinon between each level of feactors
  
