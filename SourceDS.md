@@ -236,3 +236,8 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
 # R full step classification 
 - https://data-flair.training/blogs/classification-in-r/
+
+
+## 数据科学Analytics面试精选24题 
+- [数据科学Analytics面试精选24题](https://www.1point3acres.com/bbs/thread-295085-1-1.html)
+- http://onlinestatbook.com/2/index.html
