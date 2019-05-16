@@ -776,3 +776,11 @@ The multinomial distribution is a discrete distribution that can be used to mode
 ## power 
 - The power of an experiment is defined for specific alternatives, e.g., |μ1 − μ2| = 100, rather than for the entire, complex alternative hypothesis. The power of an experiment for a given alternative hypothesis is the chance that we will get a statistically significant result (reject the null hypothesis) when that alternative is true for any one realization of the experiment. Power varies from α to 1.00 (or 100α% to 100%). The concept of power is related to Type 2 error, which is the error we make when we retain the null hypothesis when a particular alternative is true. Usually the rate of making Type 2 errors is symbolized by beta (β). Then power is 1-β or 100-100β%. Typically people agree that 80% power (β=20%) for some substantively important effect size (specific magnitude of a difference as opposed to the zero difference of the null hypothesis) is a minimal value for good power.
 
+
+
+# aic bic
+- the model which has lower AIC value than the other is better than the other in the sense that it is less complex but still a good fit for the data.
+
+
+# ANOVA vs TTEST 
+- However, if you have more than two groups, you shouldn't just use multiple t-tests as the error adds up (see familywise error) and thus you increase your chances of finding an effect when there really isn't one (i.e. a type 1 error). Therefore when you have more than two groups to compare e.g. in a drugs trial when you have a high dose, low does and a placebo group (so 3 groups), you use ANOVA to examine whether there any differences between the groups.
