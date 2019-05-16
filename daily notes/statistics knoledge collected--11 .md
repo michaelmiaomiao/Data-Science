@@ -70,7 +70,8 @@
 	- contingency tables, hexagonal binning, contour plots, volin
 	- denssity 
 	- two categorial table 
-
+> > 	**- R size larger larger R so adjuest R is preferred   
+**
 - # data and smapling dist. 
 	-sample, population, n, rs, strata, sample bias. 
 	- data quality matters here
@@ -256,11 +257,23 @@ No normalization or scaling necessary
 Prediction algorithm runs very fast
 
 
-#z Gini index: Mainly used with tree-based methods and commonly referred to as a measure of purity where a small value indicates that a node contains predominantly observations from a single class. Objective: minimize
+# Gini index
+Gini index: Mainly used with tree-based methods and commonly referred to as a measure of purity where a small value indicates that a node contains predominantly observations from a single class. Objective: minimize
+
+# Gini importance
+
+Every time a split of a node is made on variable m the gini impurity criterion for the two descendent nodes is less than the parent node. Adding up the gini decreases for each individual variable over all trees in the forest gives a fast variable importance that is often very consistent with the permutation importance measure.
 
 
 
-# A simple way to detect collinearity is to look at the correlation matrix of the predictors. An element of this matrix that is large in absolute value indicates a pair of hig
+# collinearity
+- A simple way to detect collinearity is to look at the correlation matrix of the predictors. An element of this matrix that is large in absolute value indicates a pair of hig
+
+# auc
+- AUC - ROC curve is a performance measurement for classification problem at various thresholds settings. ROC is a probability curve and AUC represents degree or measure of separability. It tells how much model is capable of distinguishing between classes. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s. By analogy, Higher the AUC, better the model is at distinguishing between patients with disease and no disease.
+
+# roc 
+- The ROC is also known as a relative operating characteristic curve, because it is a comparison of two operating characteristics (TPR and FPR) as the criterion changes.[8]
 
 
 # Leave-one-out cross-validation
@@ -321,10 +334,10 @@ Describe how the support vector machine (SVM) algorithm works.
 
 
 # Many ways to attempt to fix overfitting
-Increase Training Data Size
+- **Increase Training Data Size
 Regularization
 Early Stopping
-K-Fold Cross Validation
+K-Fold Cross Validation**
 
 # AC
 Accuracy is simply a ratio of correctly predicted observation to the total observations. Accuracy is a useful measure but only when you have symmetric datasets where values of false positive and false negatives are almost same. Therefore, we need to also consider Precision and Recall.
@@ -758,14 +771,14 @@ Cov(X, Y ) = n − 1
 
 - The correlation between two random variables is a number that runs from -1 through 0 to +1 and indicates a strong inverse relationship, no rela
 - tionship, and a strong direct relationship, respectively.
+- % variation in y can be explaine by.
 
 
 
 ## distributions 
 - The binomial distribution 
 - 
-The multinomial distribution is a discrete distribution that can be used to model situations where a subject has n trials each of which independently can result in one of k different
-
+The multinomial distribution is a discrete distribution that can be used to model situations where a subject has n trials each of whi**ch independently can result in one of k different**
 
 - The Poisson distribution is a discrete distribution whose support is the non- negative integers (0, 1, 2, . . .). Many measurements that represent counts which have no theoretical upper limit, such as the number of times a subject clicks on a moving target on a computer screen in one minute, follow a Poisson distribution.
 
@@ -783,4 +796,22 @@ The multinomial distribution is a discrete distribution that can be used to mode
 
 
 # ANOVA vs TTEST 
-- However, if you have more than two groups, you shouldn't just use multiple t-tests as the error adds up (see familywise error) and thus you increase your chances of finding an effect when there really isn't one (i.e. a type 1 error). Therefore when you have more than two groups to compare e.g. in a drugs trial when you have a high dose, low does and a placebo group (so 3 groups), you use ANOVA to examine whether there any differences between the groups.
+- However, if you have more than two groups, you shouldn't just use multiple t-tests as the error adds up (see familywise error) and thus you increase your chances of finding an effect when there really isn't one (i.e. a type 1 error). Therefore when you have more than two groups to compare e.g. in a drugs trial when you have a high dose, low does and a placebo group (so 3 groups), you use ANOVA to examine whether there any differences between the groups.\
+
+# When to Use Chi-Square Test for Independence
+-The test procedure described in this lesson is appropriate when the following conditions are met: The sampling method is simple random sampling. The variables under study are each categorical. If sample data are displayed in a contingency table, the expected frequency count for each cell of the table is at least 5.  
+- goodness of fit
+
+#lurking variable -- 潜在变量
+
+# Margin of Error
+
+- In a confidence interval, the range of values above and below the sample statistic is called the margin of error.
+
+# simultanesou inference
+- Ifwearedoingmanyt(orother)tests,saym>1wecan control overall false positive rate at α by testing each one at level α/m.
+
+- Known as “simultaneous inference”: controlling overall false positive rate at α while performing many tests.
+
+#
+ 
