@@ -816,3 +816,12 @@ The multinomial distribution is a discrete distribution that can be used to mode
 # The Tukey’s test 
 - verifies our observation in the interaction plot and F-test. With a moderate or high alcohol intake (2 or 4 intakes), sadness is significant in increasing the memory time co realatinon between each level of feactors
  
+ 
+# clustered data, longitudinal data and repeated measure
+ 
+ - In clustered data, the dependent variable is measured once for each subject, but the subjects themselves are somehow grouped (student grouped into classes, for example).  There is no ordering to the subjects within the group, so their responses should be equally correlated.
+
+In repeated measures data, the dependent variable is measured more than once for each subject.  Usually, there is some independent variable (often called a within-subject factor) that changes with each measurement.
+
+And in longitudinal data, the dependent variable is measured at several time points for each subject, often over a relatively long period of time.
+ 
