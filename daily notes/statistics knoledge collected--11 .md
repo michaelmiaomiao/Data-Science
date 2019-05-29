@@ -828,4 +828,7 @@ And in longitudinal data, the dependent variable is measured at several time poi
  
 ### svm
 -先保证正确classfication情况下
--在保证两边同时最多margin 
+-在保证两边同时最多margin
+- C 越大 越correct但是不是很smooth了boundary
+- Gamma越大variance 越小 考虑更近的点所以boundayr看起来更加curve和曲折
+-  
