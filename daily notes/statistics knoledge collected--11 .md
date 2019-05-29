@@ -825,3 +825,7 @@ In repeated measures data, the dependent variable is measured more than once for
 
 And in longitudinal data, the dependent variable is measured at several time points for each subject, often over a relatively long period of time.
  
+ 
+### svm
+-先保证正确classfication情况下
+-在保证两边同时最多margin 
