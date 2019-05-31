@@ -835,3 +835,4 @@ And in longitudinal data, the dependent variable is measured at several time poi
 
 ## AUC ROC 
 - AUC represents degree or measure of separability. It tells how much model is capable of distinguishing between classes. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s. By analogy, Higher the AUC, better the model is at distinguishing between patients with disease and no disease
+- https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
