@@ -850,3 +850,7 @@ And in longitudinal data, the dependent variable is measured at several time poi
 What is PRACTICAL SIGNIFICANCE?
 
 ● Practical significance looks at whether the difference is large enough to be of value in a practical sense.
+
+
+## confidence limit 
+-  If the confidence limits are small, researchers have a high degree of assurance that results are true or nearly true. Conversely, if the confidence limits are large, researchers must be more cautious.
