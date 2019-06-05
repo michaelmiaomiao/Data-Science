@@ -883,4 +883,8 @@ https://www.lexalytics.com/technology/sentiment-analysis
 > 
 > 
 
-## 
+## What are the two paradigms of ensemble methods?
+- The two paradigms of ensemble methods are
+	- a) Sequential ensemble methods
+	- b) Parallel ensemble methods
+
