@@ -873,3 +873,14 @@ while yielding high-value returns.
 
 ## text analytics
 https://www.lexalytics.com/technology/sentiment-analysis
+
+## the function of ‘Unsupervised Learning’?
+> a) Find clusters of the data
+> b) Find low-dimensional representations of the data
+> c) Find interesting directions in data
+> d) Interesting coordinates and correlations
+> e) Find novel observations/ database cleaning
+> 
+> 
+
+## 
