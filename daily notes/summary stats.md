@@ -854,3 +854,22 @@ What is PRACTICAL SIGNIFICANCE?
 
 ## confidence limit 
 -  If the confidence limits are small, researchers have a high degree of assurance that results are true or nearly true. Conversely, if the confidence limits are large, researchers must be more cautious.
+
+##  Analysis 
+is a detailed examination of something in order to understand its nature or determine its essential features. 
+
+## Data analysis 
+- is the process of compiling, processing, and analyzing data so that you can use it to make decisions.
+
+## big data in business
+- Effective data analysis solutions require both storage and the ability to analyze data in near real time, with low latency,
+while yielding high-value returns.
+
+## . The challenges
+- identified in many data analysis solutions can be summarized by five key challenges: volume, velocity, variety, veracity, and value.
+
+## logstical traing or not 
+- I do not think you need to divide the set if you are interested in the significance of a coefficient and not in prediction. Cross validation is used to judge the prediction error outside the sample used to estimate the model. 
+
+## text analytics
+https://www.lexalytics.com/technology/sentiment-analysis
