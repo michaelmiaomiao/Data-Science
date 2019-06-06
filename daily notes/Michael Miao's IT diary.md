@@ -31,3 +31,22 @@ myfiles = lapply(temp, read.delim)
       arrange(desc(Sepal.Length)) %>% 
       slice(2) %>% 
       select(Sepal.Length)
+      
+      
+ a <- c(8, 9, 10)
+b <- c(9, 10)
+c <- 10
+
+seq_along(a)
+# [1] 1 2 3
+seq_along(b)
+# [1] 1 2
+seq_along(c)
+# [1] 1
+
+seq(a)
+# [1] 1 2 3
+seq(b)
+# [1] 1 2
+seq(c)
+# [1]  1  2  3  4  5  6  7  8  9 10
