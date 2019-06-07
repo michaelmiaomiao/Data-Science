@@ -888,3 +888,12 @@ https://www.lexalytics.com/technology/sentiment-analysis
 	- a) Sequential ensemble methods
 	- b) Parallel ensemble methods
 
+
+## Gini 
+- Gini impurity[edit]
+Used by the CART (classification and regression tree) algorithm for classification trees, Gini impurity is a measure of how often a randomly chosen element from the set would be incorrectly labeled if it was randomly labeled according to the distribution of labels in the subset. The Gini impurity can be computed by summing the probability 
+- It reaches its minimum (zero) when all cases in the node fall into a single target category.
+
+
+## balance data is important 
+- SMOTE - Supersampling Rare Events in R
