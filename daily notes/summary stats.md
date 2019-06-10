@@ -897,3 +897,6 @@ Used by the CART (classification and regression tree) algorithm for classificati
 
 ## balance data is important 
 - SMOTE - Supersampling Rare Events in R
+
+- 
+ - VIF > 10 is considered solid evidence of multicollinearity.
