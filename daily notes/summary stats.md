@@ -300,6 +300,8 @@ Chi-Square: It is a is a statistical test applied to the groups of categorical f
 
 
 # Variance Inflation Factors (VIF)
+- VIF > 10 is considered solid evidence of multicollinearity.
+
 
 
 #chi 
@@ -899,4 +901,19 @@ Used by the CART (classification and regression tree) algorithm for classificati
 - SMOTE - Supersampling Rare Events in R
 
 - 
- - VIF > 10 is considered solid evidence of multicollinearity.
+
+
+
+## model seelction 
+### PRESS statistic
+- PRESSp an empirical measure of the prediction error of the model (called generalization error in machine learning).
+• Can use PRESSp as a model selection criteria.
+
+1. Leave one data-point out,
+2. fit the model,
+3. try to predict the deleted data-point.
+
+- Using PRESSp is equivalent to leave-one-out cross-validation. (Also known as jack-knifing in this case.)
+
+ 
+
