@@ -49,4 +49,9 @@ seq(a)
 seq(b)
 # [1] 1 2
 seq(c)
+
 # [1]  1  2  3  4  5  6  7  8  9 10
+
+
+
+## To apply strikethrough formatting: Cmd + Shift + X
