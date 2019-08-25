@@ -54,4 +54,14 @@ seq(c)
 
 
 
+
+
+
+
 ## To apply strikethrough formatting: Cmd + Shift + X
+
+
+
+## https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown
+
+how to embed pdf in markdown
