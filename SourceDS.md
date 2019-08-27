@@ -78,6 +78,7 @@ Sources for learning:
 
 - [MIT OPEN COURSE --- STATISTIS FOR APPLICATION](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 # SQL
+- [top 50 sql interview](List of 200 SQL Queries for Practice Before Interview)
 ## SQL学习以及面试 - interview prep.
 - https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=438830 
 - https://data36.com/sql-for-data-analysis-tutorial-beginners/
@@ -240,4 +241,4 @@ MGTA 495 - Special Topics in Business Analytics: Big Data Tech & Business App
 
 ## 数据科学Analytics面试精选24题 
 - [数据科学Analytics面试精选24题](https://www.1point3acres.com/bbs/thread-295085-1-1.html)
-- http://onlinestatbook.com/2/index.html
+- http://onlinestatbook.com/2/index.htmlfsql
