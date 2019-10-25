@@ -65,3 +65,9 @@ seq(c)
 ## https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown
 
 how to embed pdf in markdown
+
+
+$\Phi_{0}$
+
+$$ ^n\sqrt{a_{1}*}$$
+

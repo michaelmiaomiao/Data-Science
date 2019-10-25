@@ -919,3 +919,255 @@ Used by the CART (classification and regression tree) algorithm for classificati
 
 
 ## Data mismatch is to deal with distribution mismatch
+
+
+
+## Matthews correlation coefficient
+
+
+Matthews correlation coefficient
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+The Matthews correlation coefficient is used in machine learning as a measure of the quality of binary (two-class) classifications, introduced by biochemist Brian W. Matthews in 1975.[1] It takes into account true and false positives and negatives and is generally regarded as a balanced measure which can be used even if the classes are of very different sizes.[2] The MCC is in essence a correlation coefficient between the observed and predicted binary classifications; it returns a value between −1 and +1. A coefficient of +1 represents a perfect prediction, 0 no better than random prediction and −1 indicates total disagreement between prediction and observation. The statistic is also known as the phi coefficient. MCC is related to the chi-square statistic for a 2×2 contingency table
+
+## Gain or lift curve
+is a measure of the effectiveness of a classification model calculated as the ratio between the results obtained with and without the model. Gain and lift charts are visual aids for evaluating performance of classification models.
+
+
+## PCA works for cv while Kmeans not because its unsupervized and does not have error
+
+http://alexhwilliams.info/itsneuronalblog/2018/02/26/crossval/
+such as clustering, there is usually no clear definition of error. Due to this, also cross-validation cannot be used for this purpose. 
+
+
+## sensitivity 
+- In medical diagnosis, test sensitivity is the ability of a test to correctly identify those with the disease (true positive rate), whereas test specificity is the ability of the test to correctly identify those without the disease (true negative rate).
+
+
+
+## data science 
+- hypoesis driven 
+	- given the problem, we look for the fit data 
+- data driven 
+	- given the data, we try to come up with problems to solve 
+		- that being said: we try to think what to learn from the data and what action to take
+		
+	
+## types of data
+- structured data : tables, spreadsheet, relational database 
+- unstructured: non tables, images, audios, blobs of texts
+- quantitative data: numerical height etc. 
+- categorical data ； labelled and group data完全取决于 如何分类数据
+- big data: cannot fit the volumes: growing volumes, cannot fit the memory of a single machine, 
+
+
+## data sources:
+
+- Most Common Data Formats CSV, XML, SQL, JSON, Protocol Bu↵ers
+- Data Sources Companies/Proprietary Data, APIs, Gov- ernment, Academic, Web Scraping/Crawling
+
+## two types of data science problems to solve: 
+
+- Classification: Assigning something to a discrete set of possibilities. e.g. spam or non-spam, Democrat or Repub- lican, blood type (A, B, AB, O)
+- Regression: **Predicting** a numerical value. e.g. some- one’s income, next year GDP, stock price
+
+
+
+
+
+# Probability Overview: 
+
+- Experienment: procedure that yields one of possible sets of outcomes 
+- Dependence: intersection of AB if AB indepedent: PA*PB
+- Conditional Probability: P(A|B) = P(A,B)/P(B)
+- Bayes Theorem: P(A|B) = P(B|A)P(A)/P(B)
+- Marginal Prob: **P(A)**  ??????? 
+
+
+## Probability Distributions
+- **Probability Density Function (PDF)** Gives the prob- ability that a rv takes on the value x: pX(x) = P(X = x) 
+- **Cumulative Density Function (CDF**) Gives the prob- ability that a random variable is less than or equal to x: FX(x)=P(Xx)
+
+Note: The PDF and the CDF of a given random variable contain exactly the same information.
+
+
+## Descriptive Statistics
+
+- Centrality:
+	- Arithematic Mean:  best when character symmetric distribution without outliers: 1/n sigma X
+	- Geometric Mean: Always smaller than arithematic means: useful to capture averaging ratios mean = Nth root of a1 a2 ...a3 N次根号下a1* a2* a3 ... an
+	- median 
+	- mode: most frequent value
+
+
+- variabiliy:
+	- **standard deviation**: Measure the *square differenc*e between the elements and mean 看每个直的平方和平均值差多少 **REMEMBER TO /(N-1) GIVEN LARGE N FOR DEGREE OF FREEDOM**
+	- Variance V = SIGMA SQAURE 2
+
+- variance interpret: Variance is an inherent part of the universe. It is impossi- ble 
+to obtain the same results after repeated observations of the same event due to random noise/error. Variance can be explained away by attributing to sampling or measurement errors. Other times, the variance is due to the random fluctuations of the universe.
+
+
+- Correlation Analysis: Correlation coefficients r(X,Y) is a statistic that measures the degree that Y is a function of X and vice versa. Correlation values range from -1 to 1, where 1 means fully correlated, -1 means negatively-correlated, and 0 means no correlation.
+
+
+### Person Coeffcicent: 
+
+- Measures the degree of the relationship between linear related variables: R
+
+**Note: Correlation does not imply causation**
+
+### Spearman Rank Coeffcient: 
+- Computed on ranks and depicts **monotonic**  ????? relationship
+
+
+
+# data clearning:
+
+it is the process to turn data into **clean** and **analyzable**
+
+
+## Errors vs. Artifacts
+1. **Errors**: information that is lost during acquisi- tion and can never be recovered e.g. power outage, crashed servers
+
+2. **Artifacts**: systematic problems that arise from the data cleaning process. these problems can be corrected but we must first discover them
+
+##### DATA CLEARNING WOULD ALSO CAUSE PROBLEMS HERE CALLED ARTIFACTS
+
+
+## Data Compatibility
+ - Data compatibility problems arise when merging datasets
+ 	- units:
+ 	- numbers：
+ 	- names:
+ 	- time/date
+ 	- currency
+
+## Data Imputation: 
+- the process of dealing with missing data, and the methods depend on the type of data we deal with.
+	- drop the records containing missing data 
+	- **Heuristic-Based**: make a reasonable guess based on
+knowledge of the underlying domain
+	- Mean value fill
+	- random value fill
+	- Nearest Neighbor
+	- **Interpolation**: use a method like linear regression to predict the value of missing data, thats what I have used for the kaggle competition
+
+
+## Data outlier:
+- usually arised from data collecting
+- use sanity check to solve the problem
+
+
+
+!!!!!!!!!
+## Miscellaneous
+**Lowercasin**g, removing non-alphanumeric, repairing, unidecode, removing unknown characters
+
+
+### ALways use the raw data to clean, don;t start from a precleaned data. 
+### always remember to reserve the raw data intact to keep the original accuracy
+### Any type of data cleaning/analysis should be done on a copy of the raw data.
+
+
+
+## Feature engineer: 
+Feature engineering is the process of using domain knowl- edge to create features or input variables that help ma- chine learning algorithms perform better. 
+
+- help increase the predictive power 
+- FE is one of the most important steps in creating a good model
+
+
+# different ways to deal with data:
+
+## Continuous Data 
+- Methods:
+	- Raw Measures: data that hasn’t been transformed yet
+	- Rounding: sometimes precision is noise; round to nearest integer, decimal etc.. **Round the data can kill the noise sometimes**
+	- Scaling: Z log, maximax scale imputation 
+	- binning the data: transform to groups for closed 
+	- Interactions: interactions between features: e.g. sub- traction, addition, multiplication, statistical tes
+	- statistical transformation: log/ **power** transform **Helped skewed distribution moe normal**
+
+### BOX-COX
+- AND
+	- Row Statistics: number of NaN’s, 0’s, negative values, max, min, etc
+	- **Dimensionality Reduction: using PCA, clustering, factor analysis etc**
+
+
+FACTOR ANALYSIS
+PCA
+CLUSTERING: CROSS VALIDATION IS NOT WORKING FOR THIS beucase there is no specific errors 
+
+
+## Discrete Data:
+
+- method
+	- Encoding: important to ML, sinece some of them DOESNT WORK FOR CATE DATA
+	- ordinal: convert cate to orderd number: **WHY DO THIS**
+	- **One-Hot Encoding: each of the m features becomes a vector of length m with containing only one 1 (e.g. [r, g, b] becomes [[1,0,0],[0,1,0],[0,0,1]])**
+	- **Feature Hashing Schem**e: turns arbitrary features into indices in a vector or matrix
+	- Embeddings: if using words, convert words to vectors (word embeddings)
+
+
+
+## Statistical Analysis:
+Process of statistical reasoning: there is an underlying population of possible things we can potentially observe and only a small subset of them are actually sampled (ide- ally at random).
+
+
+Probability theroy gives prop- erties our sample should have given the properties of the population
+
+
+but **statistical inference** allows us to deduce what the full population is like after analyzing the sample.
+
+# probability 是通过population推测 sample的概率表现
+# st infere 通过研究sample 推测整体
+
+
+
+
+
+## Monte Carlo Sampling 
+In higher dimensions, correctly sampling from a given distribution becomes more tricky. Generally want to use Monte Carlo methods, which typically follow these rules: define a domain of possible inputs, generate random inputs from a probability distribution over the domain, perform a deterministic calculation, and analyze the results.
+
+
+## Inverse Transform Sampling 
+Sampling points from a given probability distribution is sometimes necessary to run simulations or whether your data fits a particular distribution. The general technique is called inverse transform sampling or Smirnov transform. First draw a random number p between [0,1]. Compute value x such that the CDF equals p: FX(x) = p. Use x as the value to be the random value drawn from the distribution described by FX (x).
+
+
+
+
+
+
+## Classic Statistical Distributions
+
+Modeling- Overview
+Modeling- Philosophies
+### Binomial Distribution (Discrete)
+Assume X is distributed Bin(n,p). X is the number of ”successes” that we will achieve in n independent trials, where each trial is either a success or failure and each success occurs with the same probability p and each failure occurs with probability q=1-p.
+
+
+### Gausian 
+```
+Assume X in distributed 
+Generalization
+Bias Variance Trade-O↵ Inherent part of predictive modeling, where models with lower bias will have higher variance and vice versa. Goal is to achieve low bias and low variance.
+of the binomial distribution as n ! 1.
+
+```
+### Poisson 
+
+Assume X is distributed Pois Poisson expresses
+the probability of a given number of events occurring
+in a fixed interval of time/space if these events occur
+
+
+
+## Prediction
+
+We treat fˆ as a black box, since we only care about the accuracy of the predictions, not why or how it works.
+
+
+
+## Inference
+we want to understand the relationship between X and Y. We can no longer treat fˆ as a black box since we want to understand how Y changes with respect to X = (X1, X2, ...Xp)
