@@ -1071,7 +1071,7 @@ knowledge of the underlying domain
 
 
 
-## Feature engineer: 
+
 Feature engineering is the process of using domain knowl- edge to create features or input variables that help ma- chine learning algorithms perform better. 
 
 - help increase the predictive power 
