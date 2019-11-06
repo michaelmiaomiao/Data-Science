@@ -239,7 +239,7 @@ This creates an ensemble of different individual decision trees
   - #  (Redirected from Ridge regression)
   - lasso set coe === zero , while ridge not
   - least absolute shrinkage and selection operator
-
+ Lasso shrinks the coefficient estimates towards zero and it has the effect of setting variables exactly equal to zero when lambda is large enough while ridge does not.
   
 
 ----------------------------------------------------
@@ -1171,3 +1171,10 @@ We treat fˆ as a black box, since we only care about the accuracy of the predic
 
 ## Inference
 we want to understand the relationship between X and Y. We can no longer treat fˆ as a black box since we want to understand how Y changes with respect to X = (X1, X2, ...Xp)
+
+
+## fisher exact test:
+
+ for testing the null of independence of rows and columns in a contingency table with fixed marginals.
+
+
