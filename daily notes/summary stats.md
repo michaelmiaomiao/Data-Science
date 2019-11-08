@@ -1178,3 +1178,8 @@ we want to understand the relationship between X and Y. We can no longer treat f
  for testing the null of independence of rows and columns in a contingency table with fixed marginals.
 
 
+## Inference on a Binomial Proportion π
+[check this out](http://pages.stat.wisc.edu/~ifischer/Intro_Stat/Lecture_Notes/6_-_Statistical_Inference/6_-_Synopsis/6.1.3%20-%20One%20Proportion,%202-sided%20test.pdf)
+
+## cheatsheet
+[](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)
