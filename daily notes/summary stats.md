@@ -1183,3 +1183,11 @@ we want to understand the relationship between X and Y. We can no longer treat f
 
 ## cheatsheet
 [](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)
+
+## large confidence interval 
+Wide confidence intervals mean that your sample size was too small.
+
+
+
+I would conduct a customer survival analysis 
+I would find the cohorts, the customers that stay visiting the website in a period of time.(usually one month)
