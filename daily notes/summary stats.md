@@ -1191,3 +1191,16 @@ Wide confidence intervals mean that your sample size was too small.
 
 I would conduct a customer survival analysis 
 I would find the cohorts, the customers that stay visiting the website in a period of time.(usually one month)
+
+
+var:
+bias:
+
+Error due to Bias：表示我们的模型预测的期望值（或者叫平均值）与模型想要努力接近真实值的difference。注意一点，这里的期望值是指，你可以通过多个数据集（随机性）来训练多个模型（参数会不同），这些模型的预测值与真实值的偏差叫Bias。这一过程不可以简单认为一个模型的多个测量算得的。
+Error due to Variance：表示模型对于给定数据点预测的可变性。当然可变性的统计也是基于一系列模型产生的。Variance是对于给定点的预测在模型的不同实现之间的变化性。
+
+
+作者：phusFuNs
+链接：https://www.jianshu.com/p/c26cfe99c091
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
