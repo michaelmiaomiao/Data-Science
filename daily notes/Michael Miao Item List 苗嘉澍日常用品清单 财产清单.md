@@ -46,7 +46,20 @@
 - sat红宝书
 - 便签记事本
 - Beats Headphone 大耳机
+- ucla文件等
+- 三个空白记事本
+- dell数据卡
+- absolute C++
+- 化妆镜子
+- oscar小金人
+- 抽屉收纳盒： 彩色便签 手grip
+- 一袋子霸王
+- 一袋子化妆洗漱 洗面奶
+- 雪茄香水
+- 绿色保温杯
 
+
+# 白色收纳推车
 ## 寻卡黑色盒子小
 - 小充电宝 outlets
 - Hawaii冰箱贴
@@ -56,10 +69,19 @@
 - 削笔刀
 - 笔
 - mailbox信箱 钥匙 key
+## 一层
+- 胶带纸
+- 订书器和订书针 stapler
 
 
 
-
+## 二层
+- 移动硬盘 Drive 
+- 电子收纳袋
+- 小饰品收纳： 手链 offwhite口罩
+- ipadmini 
+- amazon tablet彩色
+- 牙刷 牙刷充电 牙齿护理 剃须刀 指甲刀 juul电子烟和充电器收纳袋
 
 
 
